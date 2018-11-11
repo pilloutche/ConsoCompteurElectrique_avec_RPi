@@ -4,6 +4,8 @@
 		!!! Free for non commercial use !!!!!!
 ******************************************************************************************************
 
+<img src="https://github.com/sebastien0/ConsoCompteurElectrique_avec_RPi/blob/master/Code/Compteur_Linky/Doxygen/Images/Illustration.jpg" height="500px">
+
 ********************************************
 ConsoCompteurElectrique_avec_RPi
 Initié en septembre 2013
@@ -16,10 +18,11 @@ Co-auteurs:
 
 Remerciements:
 	Coco
-	Julie
-	Nico
+	Julie L.
+	Nico D.
 	Marc Brunello
-	Sam
+	Samuel P.
+	Pierre V.
 ********************************************
 
 
